@@ -430,3 +430,9 @@ footer {
 footer p {
   text-align: center;
 }
+img.chat_icon {
+  width: 3rem;
+  position: fixed;
+  bottom: 1rem;
+  right: 0.5rem;
+}
